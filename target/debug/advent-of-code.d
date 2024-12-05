@@ -1,0 +1,1 @@
+C:\Users\Jason\CascadeProjects\windsurf-project\target\debug\advent-of-code.exe: C:\Users\Jason\CascadeProjects\windsurf-project\src\main.rs C:\Users\Jason\CascadeProjects\windsurf-project\src\solutions\day1.rs C:\Users\Jason\CascadeProjects\windsurf-project\src\solutions\day2.rs C:\Users\Jason\CascadeProjects\windsurf-project\src\solutions\mod.rs
