@@ -1,13 +1,18 @@
 pub fn solve() {
+    use std::time::Instant;
+    let now = Instant::now();
     // Part 1 solution
     println!("Day 1 - Part 1 solution");
     let part1_result = solve_part1("./input/day1.txt");
     println!("Part 1 Result: {}", part1_result);
+    println!("Elapsed: {:.2?}", now.elapsed());
 
+    let now2 = Instant::now();
     // Part 2 solution
     println!("Day 1 - Part 2 solution");
     let part2_result = solve_part2("./input/day1.txt");
     println!("Part 2 Result: {}", part2_result);
+    println!("Elapsed: {:.2?}", now2.elapsed());
 }
 
 use std::fs;
